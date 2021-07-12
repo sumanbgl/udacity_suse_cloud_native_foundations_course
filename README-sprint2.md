@@ -23,3 +23,8 @@ Blockers: No blockers so far.
 Yesterday: Revised the concept 16 from lesson 3.
 Today: Plan to revise concept 17 from lesson 3.
 Blockers: No blockers so far.
+
+**Day 6: 12th July 2021**
+Yesterday: Could not work on Cloud native foundations content.
+Today: Plan to revise concept 17 from lesson 3.
+Blockers: No blockers so far.
