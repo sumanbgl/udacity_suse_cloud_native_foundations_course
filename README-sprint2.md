@@ -39,5 +39,23 @@ Yesterday: Revised concept 17,18 from lesson 3.
 Today: Plan to redo concept 21 (Exercise: Kubernetes Resources) from lesson 3.
 Blockers: No blockers so far.
 
+```
+Exercise: Kubernetes Resources
+kubectl create namespace demo
+kubectl get ns
+kubectl label ns demo tier=test
+kubectl describe ns demo
+
+kubectl create deploy nginx-alpine --image=nginx:alpine -n demo -r 3
+kubectl get deploy -n demo
+kubectl describe -n demo deploy nginx-alpine
+kubectl label deploy nginx-alpine app=nginx tag=alpine --namespace demo
+
+kubectl expose deploy nginx-alpine --port 8111 -n demo
+
+kubectl create configmap -n demo nginx-version --from-literal=version=alpine
+kubectl describe cm -n demo nginx-version
+
+```
 
 
