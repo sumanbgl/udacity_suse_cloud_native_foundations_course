@@ -29,8 +29,15 @@ Yesterday: Could not work on Cloud native foundations content.
 Today: Plan to revise concept 17 from lesson 3.
 Blockers: No blockers so far.
 
-**Day 6: 13th July 2021**
+**Day 7: 13th July 2021**
 Yesterday: Revised concept 17 from lesson 3.
 Today: Plan to revise concept 18 from lesson 3.
 Blockers: No blockers so far.
+
+**Day 8: 14th July 2021**
+Yesterday: Revised concept 17,18 from lesson 3.
+Today: Plan to redo concept 21 (Exercise: Kubernetes Resources) from lesson 3.
+Blockers: No blockers so far.
+
+
 
