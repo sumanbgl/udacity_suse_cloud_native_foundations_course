@@ -58,4 +58,9 @@ kubectl describe cm -n demo nginx-version
 
 ```
 
+**Day 9: 15th July 2021**
+Yesterday: Redid concept 21 (Excercise: Kubernetes Resources) from lesson 3.
+Today: Plan to revise concepts 23-28 from lesson 3.
+Blockers: No blockers so far.
+
 
