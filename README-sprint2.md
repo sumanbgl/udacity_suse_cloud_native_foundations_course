@@ -63,4 +63,11 @@ Yesterday: Redid concept 21 (Excercise: Kubernetes Resources) from lesson 3.
 Today: Plan to revise concepts 23-28 from lesson 3.
 Blockers: No blockers so far.
 
+**Day 10: 16th July 2021**
+Yesterday: Revised concepts 23-28 from lesson 3 and completed revision of lesson 3.
+Today: Submitted my student story, wrote a blog for Blogathon event and completed Weekly Quiz # 4. Plan to start revision of lesson 5 concepts till CI fundamentals.
+Blockers: No blockers so far.
+
+
+
 
