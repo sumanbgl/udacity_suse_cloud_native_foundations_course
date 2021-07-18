@@ -68,6 +68,11 @@ Yesterday: Revised concepts 23-28 from lesson 3 and completed revision of lesson
 Today: Submitted my student story, wrote a blog for Blogathon event and completed Weekly Quiz # 4. Plan to start revision of lesson 5 concepts till CI fundamentals.
 Blockers: No blockers so far.
 
+**Day 11: 18th July 2021**
+Yesterday: Took a day off due to sickness.
+Today: Hosted 3 technical quizzes on docker, kubernetes, helm, argocd as part of study jam. Participated in CI/CD Quiz , Cloud Fundamentals Quiz, Fun Quiz on Docker, Kubernetes, Git, Crosswork Puzzle Quizzes and webinars on L3 - Container Orchestration, Intro to MLOps.
+Blockers: No blocker so far.
+
 
 
 
