@@ -73,6 +73,15 @@ Yesterday: Took a day off due to sickness.
 Today: Hosted 3 technical quizzes on docker, kubernetes, helm, argocd as part of study jam. Participated in CI/CD Quiz , Cloud Fundamentals Quiz, Fun Quiz on Docker, Kubernetes, Git, Crosswork Puzzle Quizzes and webinars on L3 - Container Orchestration, Intro to MLOps.
 Blockers: No blocker so far.
 
+**Day 12: 19th July 2021**
+Yesterday: Study Jam day. Hosted 3 technical quizzes on docker, kubernetes, helm, argocd as part of study jam. Participated in CI/CD Quiz , Cloud Fundamentals Quiz, Fun Quiz on Docker, Kubernetes, Git, Crosswork Puzzle Quizzes and webinars on L3 - Container Orchestration, Intro to MLOps.
+Today: Plan to revise CI concepts from Lesson 5.
+Blockers: No blocker so far.
+
+Identified following articles for further reading:
+ https://rubygarage.org/blog/advantages-of-using-docker-for-microservices
+ https://itnext.io/kubernetes-essential-tools-2021-def12e84c572
+
 
 
 
