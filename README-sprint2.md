@@ -82,6 +82,10 @@ Identified following articles for further reading:
  https://rubygarage.org/blog/advantages-of-using-docker-for-microservices
  https://itnext.io/kubernetes-essential-tools-2021-def12e84c572
 
+**Day 13: 20th July 2021**
+Yesterday: Revised CI Concepts from Lesson 5.
+Today: Plan to revise CD concepts from lesson 5.
+Blockers: No blockers so far.
 
 
 
