@@ -87,5 +87,9 @@ Yesterday: Revised CI Concepts from Lesson 5.
 Today: Plan to revise CD concepts from lesson 5.
 Blockers: No blockers so far.
 
+**Day 14: 21st July 2021**
+Yesterday: Revised CD Concepts from Lesson 5.
+Today: Plan to work on CD Exercise from lesson 5.
+Blockers: No blockers so far.
 
 
