@@ -92,4 +92,9 @@ Yesterday: Revised CD Concepts from Lesson 5.
 Today: Plan to work on CD Exercise from lesson 5.
 Blockers: No blockers so far.
 
+**Day 15: 22nd July 2021**
+Yesterday: Worked on CD Excercise from lesson 5.
+Today: Attended SUSE Community AMA session. Plan to revise the configuration managers concepts from lesson 5.
+Blockers: No blockers so far.
+
 
