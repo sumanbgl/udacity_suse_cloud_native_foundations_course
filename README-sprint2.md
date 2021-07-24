@@ -97,4 +97,9 @@ Yesterday: Worked on CD Excercise from lesson 5.
 Today: Attended SUSE Community AMA session. Plan to revise the configuration managers concepts from lesson 5.
 Blockers: No blockers so far.
 
+**Day 16: 24th July 2021**
+Yesterday: Revised the procedure for CI, CD Excercise from lesson 5.
+Today: Plan to revise Helm concepts from lesson 5. Watching https://www.youtube.com/watch?v=ks7tVTxH8FM to learn kubernetes operator concepts.
+Blockers: No blockers so far.
+
 
