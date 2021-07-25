@@ -102,4 +102,9 @@ Yesterday: Revised the procedure for CI, CD Excercise from lesson 5.
 Today: Plan to revise Helm concepts from lesson 5. Watching https://www.youtube.com/watch?v=ks7tVTxH8FM to learn kubernetes operator concepts.
 Blockers: No blockers so far.
 
+**Day 17: 25th July 2021**
+Yesterday: Started with revision of Helm concepts from lesson 5.
+Today: Plan to complete revision of Helm concepts from lesson 5. Debug and fix the container error in my k3s cluster.
+Blockers: None so far.
+
 
